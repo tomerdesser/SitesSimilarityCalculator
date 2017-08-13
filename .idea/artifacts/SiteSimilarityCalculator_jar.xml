@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SiteSimilarityCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SiteSimilarityCalculator_jar</output-path>
+    <root id="archive" name="SiteSimilarityCalculator.jar">
+      <element id="module-output" name="SiteSimilarityCalculator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/hadoop-core-1.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
